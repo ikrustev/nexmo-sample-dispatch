@@ -1,0 +1,6 @@
+API_KEY=
+API_SECRET=
+APPLICATION_ID=
+PRIVATE_KEY=
+SENDER_LVN=<from-number-for-sending-sms>
+SENDER_FB_ID=<from-page-id-for-sending-fb-messages>
